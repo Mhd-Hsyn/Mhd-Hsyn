@@ -1,6 +1,12 @@
 <!-- ==================== HERO / TYPING BANNER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hi%20👋,%20I'm%20Hussain&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+</p>
+
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hussain;Python+Backend+Developer;Django+%7C+DRF+%7C+FastAPI;Exploring+DevOps+%26+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+FastAPI;Exploring+DevOps+%26+Microservices" alt="Typing SVG" />
 </h1>
 
 <!-- ======== CONNECT LINKS ======== -->
@@ -66,10 +72,10 @@
 ## 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/Mhd-Hsyn/RabbitMQ-Tutorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mhd-Hsyn&repo=your-top-project&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mhd-Hsyn&repo=RabbitMQ-Tutorial&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/Mhd-Hsyn/Mhd-Hsyn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mhd-Hsyn&repo=another-project&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mhd-Hsyn&repo=Mhd-Hsyn&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
