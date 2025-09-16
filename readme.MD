@@ -1,10 +1,17 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">🚀 Python Backend Developer | Django • DRF • FastAPI | Exploring DevOps & Microservices</h3>
+<!-- Banner / Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Hussain;Python+Backend+Developer;Django+%7C+DRF+%7C+FastAPI;Exploring+DevOps+%26+Microservices" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhd-hsyn"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hsyn-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,28 +40,31 @@
 ---
 
 ## 🌱 Currently Exploring
-- **DevOps Practices** (CI/CD, Automation)  
-- **Microservices Architecture**  
-- **Event-Driven Systems**
+- DevOps Practices (CI/CD, Automation)  
+- Microservices Architecture  
+- Event-Driven Systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhd-Hsyn&show_icons=true&theme=tokyonight" alt="Hussain's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhd-Hsyn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhd-Hsyn&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhd-Hsyn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhd-Hsyn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-hsyn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hsyn-portfolio.vercel.app)
+## ⚡ Fun Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
-⭐️ From [Mhd-Hsyn](https://github.com/Mhd-Hsyn)
+⭐ From [Mhd-Hsyn](https://github.com/Mhd-Hsyn)
